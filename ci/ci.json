@@ -9,8 +9,8 @@
       "branch": "main"
     },
     "casper-sidecar": {
-      "github_repo_url": "https://github.com/casper-network/casper-sidecar",
-      "branch": "feat-2.0"
+      "github_repo_url": "https://github.com/zajko/casper-sidecar",
+      "branch": "aligning_with_node_changes"
     },
     "casper-nctl": {
       "github_repo_url": "https://github.com/casper-network/casper-nctl",
